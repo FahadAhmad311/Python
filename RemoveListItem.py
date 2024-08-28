@@ -1,0 +1,12 @@
+vegetables=['Tomato','Onion','Garlic','Ginger','LaddyFinger']
+vegetables.remove('LaddyFinger')
+print(vegetables)
+vegetables.insert(1,'Potato')
+vegetables.insert(4,'Turnip')
+print(vegetables)
+vegetables.insert(3,'Mint')
+vegetables.insert(2,'Lemon')
+vegetables.insert(5,'Chillie')
+print(vegetables)
+vegetables.append('LadyFinger')
+print(vegetables)

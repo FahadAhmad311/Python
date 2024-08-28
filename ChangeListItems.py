@@ -1,0 +1,10 @@
+fruits=['Banana','Orange','Carrot','Plum']
+print(fruits)
+fruits[2]='Mango'
+print(fruits)
+fruits.append('Pear')
+print(fruits)
+fruits[2:3]=["Melon","Strawberry"]
+print(fruits)
+fruits.insert(2,'Kiwi')
+print(fruits)

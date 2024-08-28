@@ -1,0 +1,14 @@
+fruits=['Banana','Orange','Gauva','PineApple']
+print(fruits)
+print(fruits[1])
+print(fruits.append('Grapes'))
+print(fruits)
+fruits.pop(4)
+numbers=[1,3,5,7,9]
+print(numbers)
+print(fruits)
+myprofile=['SE1020212009',20,'Fahad']
+print(myprofile)
+zoo=list(("Lion",'Tiger','Fox','Zebra'))
+print(zoo)
+print(zoo[3])

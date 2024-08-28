@@ -1,0 +1,1 @@
+print("Allah Pak is Great, and he is the creator of universe.")
